@@ -1,6 +1,6 @@
 {
   "name": "readable-to-string",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The correct way of collecting a readable stream into a string.",
   "repository": "dsfx3d/readable-to-string",
   "license": "MIT",
